@@ -6,7 +6,3 @@ env/*
 .ipynb_checkpoints
 .ipynb_checkpoints/
 .ipynb_checkpoints/*
-
-#Generated pngs
-*.png
-images/
