@@ -22,6 +22,6 @@ A model built in python for heart disease prediction.
 
 3. Install requirements: `pip install -r requirements.txt`
 
-4. Set python envionrment to local env in [notebook](notebook.ipynb)
+4. Set python environment to local env in [notebook](notebook.ipynb)
 
 _Note_: To decativate virtual environment: `deactivate`
